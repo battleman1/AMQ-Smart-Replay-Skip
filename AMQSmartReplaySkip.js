@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AMQ Smart Replay Skip
 // @namespace    https://github.com/battleman1/  
-// @version      0.0.3
+// @version      0.0.4
 // @description  Auto votes to skip replay phase of an amq song if you hit the song and will not vote to skip otherwise
 // @author       battleman
 // @match        https://animemusicquiz.com/*
@@ -16,7 +16,7 @@ function setup() {
         name: "AMQ Smart Replay Skip",
         author: "battleman",
         version: GM_info.script.version,
-        link: "https://github.com/battleman1/raw/main/AMQ-Smart-Replay-Skip/AMQSmartReplaySkip.js",
+        link: "https://github.com/battleman1/AMQ-Smart-Replay-Skip/raw/main/AMQSmartReplaySkip.js",
         description: `<p>Auto votes to skip replay phase of an amq song if you hit the song and will not vote to skip otherwise</p>`
     });
 
